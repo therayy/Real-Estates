@@ -30,7 +30,28 @@ tracks the median home sales price for several geographic areas.
 ### Ownership
 > Is the basic element of real estate. Owning real estate is considered
 a basic right in our culture.
+### Property rights
+> Are the rights someone has in something and are known collectively as the bundle of rights.
+### Bundle of rights
+> Property rights are the rights someone has in something.
+Remember the mnemonic `UPTEE`:
+Use, Possess, Transfer, Encumber, and Enjoy.
+### Property
+> Is anything that may be owned and gained lawfully. Property can
+be real or personal. Anything that is not real property is personal property.
+### Personal Property 
+> Is everything other than real property and is often referred
+to as movable property, personalty, or chattel.
+### Real property
+> Is the land, anything permanently attached to the land
+(attachments), anything appurtenant to the land (appurtenances), and anything
+immovable by law.
+### Surface Rights
+> The surface is the topsoil and the rights to the use of the soil. Surface rights include the right to build on the land, grow crops, hunt, fish, and the basic enjoyment of the land. Surface rights also include the right to drill or mine through the surface when subsurface rights are involved.
+### Appropriation
+> is the right to use water for a beneficial use by diverting surface water. Typically,beneficial uses include domestic, municipal, agricultural, mining, stock watering,recreation, wildlife, or power generation.
 ### 
 ---
+
 
 
