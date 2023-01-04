@@ -27,8 +27,10 @@ tracks the median home sales price for several geographic areas.
 > A large, densely populated metropolitian area consisting of a number of major urban areas and smaller surrounding cities.
 ---
 ## UNIT TWO
-### x
-> y
+### Ownership
+> Is the basic element of real estate. Owning real estate is considered
+a basic right in our culture.
+### 
 ---
 
 
